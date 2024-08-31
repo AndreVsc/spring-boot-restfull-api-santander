@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://meticulous-empathy.railway.internal:5432/railway
+    username: postgres
+    password: qBhSoMFDpoWCyvjVYosLERmXhFoFwGmH
+  jpa:
+    open-in-view: false
+    hibernate:
+      ddl-auto: update
