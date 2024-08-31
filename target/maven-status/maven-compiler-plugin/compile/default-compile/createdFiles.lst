@@ -1,0 +1,12 @@
+andrevsc\spring_boot_restfull_api_santander\domain\model\Feature.class
+andrevsc\spring_boot_restfull_api_santander\domain\model\News.class
+andrevsc\spring_boot_restfull_api_santander\domain\repository\UserRepository.class
+andrevsc\spring_boot_restfull_api_santander\domain\model\Card.class
+andrevsc\spring_boot_restfull_api_santander\service\UserService.class
+andrevsc\spring_boot_restfull_api_santander\controller\exeption\GlobalExceptionHandler.class
+andrevsc\spring_boot_restfull_api_santander\domain\model\BaseItem.class
+andrevsc\spring_boot_restfull_api_santander\Application.class
+andrevsc\spring_boot_restfull_api_santander\service\impl\UserServiceImpl.class
+andrevsc\spring_boot_restfull_api_santander\domain\model\User.class
+andrevsc\spring_boot_restfull_api_santander\controller\UserController.class
+andrevsc\spring_boot_restfull_api_santander\domain\model\Account.class
